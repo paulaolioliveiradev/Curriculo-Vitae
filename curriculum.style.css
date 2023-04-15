@@ -3,7 +3,7 @@ h1{
     color: rgb(228, 182, 220);
 }
 h2{
-    text-alig
+    text-align: center;
 }
 img { 
     text-align: center;
@@ -42,7 +42,7 @@ ul{
 }    
 
 body {
-    background-color: rgb(180, 221, 255);
+    background-color: rgb(212, 226, 218);
 }
 
 hr{
@@ -51,10 +51,8 @@ hr{
 }
 
 #capa{
-    background-color: rgb(162, 92, 226);
-    text-align: left;
-    height: 450px;
-    width: 350px;
+    background-color: rgb(171, 157, 189);
+    text-align: center;
 }
 li{
     color: blueviolet;
